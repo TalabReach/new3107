@@ -4,3 +4,11 @@ My project is so bit for me I am really lazy to do it.
 `npm install`
 
 `pip install`
+### Todo list
+
+- [ ] Home page
+- [ ] About page
+- [X] service page
+
+### Screenshot 
+![Dasbord](image.png)
